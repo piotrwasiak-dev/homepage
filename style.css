@@ -1,0 +1,19 @@
+body {
+	background: darkseagreen;
+}
+
+.mainHeader {
+	color: darkgreen;
+}
+
+.aboutHeader {
+	color: #ad14e9;
+}
+
+.diaryHeader {
+	color: blue;
+}
+
+.articleHeader {
+	color: #c02573;
+}
