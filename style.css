@@ -2,18 +2,64 @@ body {
 	background: darkseagreen;
 }
 
-.mainHeader {
-	color: darkgreen;
+.about {
 }
 
-.aboutHeader {
+.about__header {
 	color: #33b19c;
 }
 
-.diaryHeader {
+.about__paragraph {
+}
+
+
+.day {
+}
+
+.day__header {
+
+}
+
+.day__paragraph {
+
+}
+
+.day__link {
+	color: blue;
+	text-decoration: none;
+}
+
+
+
+.diary {
+}
+
+.diary__header {
 	color: blue;
 }
 
-.articleHeader {
-	color: #c02573;
+.diary__day {
+}
+
+.diary__day__header {
+	color: blue;
+}
+
+.diary__day__paragraph {
+	color: blue;
+}
+
+.diary__day__link {
+	color: blue;
+	text-decoration: none;
+}
+
+
+
+.main__header {
+	color: darkgreen;
+}
+
+.main__footer {
+	color: darkgreen;
 }
